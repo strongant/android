@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T11:48:11.515Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AN9c1bdaK5kRFpJEvaF-" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T11:51:16.363Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-c8JefJx6mdZ6cPm_04D" version="24.1.0" type="github">
   <diagram name="Page-1" id="rEw1VWWM6GmjRrUUN5AP">
     <mxGraphModel dx="2314" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
           <mxGeometry x="750" y="460" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BBldQFb6U_NgVqgMDZbm-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BBldQFb6U_NgVqgMDZbm-14" target="BBldQFb6U_NgVqgMDZbm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BBldQFb6U_NgVqgMDZbm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BBldQFb6U_NgVqgMDZbm-14" target="BBldQFb6U_NgVqgMDZbm-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BBldQFb6U_NgVqgMDZbm-14" value="Guava Bloom Filter Cache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -104,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BBldQFb6U_NgVqgMDZbm-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="400" width="230" height="90" as="geometry" />
+          <mxGeometry x="1730" y="400" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BBldQFb6U_NgVqgMDZbm-38" value="监控告警服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1787.5" y="510" width="115" height="30" as="geometry" />
@@ -146,6 +149,12 @@
           <mxGeometry x="0.0945" y="3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BBldQFb6U_NgVqgMDZbm-54" value="key=HTTP API Path + Method" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="250" y="690" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BBldQFb6U_NgVqgMDZbm-56" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="415" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
